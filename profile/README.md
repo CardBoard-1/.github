@@ -11,4 +11,4 @@ You can put up your property as a place for individuals to stay at with a certai
 
 😶‍🌫️ Keep your identity anonymous and your information private.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
